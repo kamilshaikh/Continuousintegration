@@ -6,9 +6,5 @@ continuous integration with a PHP project.
 
 Here is a sample status icon showing the state of the master branch.
 
-[![Build Status](https://travis-ci.org/kamilshaikh/Continuousintegration.svg?branch=master)
+![Build Status](https://travis-ci.org/kamilshaikh/Continuousintegration.svg?branch=master)
 
-In order to run this project just fork it on github.com and then [enable](http://about.travis-ci.org/docs/user/getting-started/)
-your fork on your [travis-ci profile](http://travis-ci.org/profile). Every push will then trigger a new build on Travis CI.
-
-(Don't forget to update the badge url in the README to point to your own travis project.)
